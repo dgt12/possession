@@ -8,7 +8,7 @@
   // INPUT: Currently expects an array of objects (items) with the same properties (variables)
   // The property values are the categories
   // Datasets: titanic{2}.js, mushrooms{_all}.js, covid.js, crime.js, sleep.js
-  import data from "$data/titanic.js";
+  import data from "$data/possessives.js";
   // import data from "$data/mushrooms.js";
 
   // Log raw data
