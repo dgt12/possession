@@ -4,7 +4,7 @@ import path from 'path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/multicat/",
+  base: "/possession/",
   plugins: [svelte()],
   resolve: {
     alias: {
