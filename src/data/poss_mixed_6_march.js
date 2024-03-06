@@ -5,7 +5,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "time",
@@ -13,7 +13,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -21,7 +21,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -29,7 +29,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -37,7 +37,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -45,7 +45,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -53,7 +53,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -61,7 +61,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "human",
@@ -69,7 +69,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -77,7 +77,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -85,7 +85,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -93,7 +93,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -101,7 +101,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -109,7 +109,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -117,7 +117,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -125,7 +125,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -133,7 +133,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -141,7 +141,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -149,7 +149,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -157,7 +157,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -165,7 +165,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -173,7 +173,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -181,7 +181,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "property",
@@ -189,7 +189,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -197,7 +197,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -205,7 +205,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -213,7 +213,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -221,7 +221,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -229,7 +229,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -237,7 +237,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -245,7 +245,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -253,7 +253,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -261,7 +261,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -269,7 +269,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -277,7 +277,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -285,7 +285,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "human",
@@ -293,7 +293,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -301,7 +301,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "knowledge",
@@ -309,7 +309,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -317,7 +317,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -325,7 +325,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -333,7 +333,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "transport",
@@ -341,7 +341,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -349,7 +349,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -357,7 +357,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -365,7 +365,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -373,7 +373,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -381,7 +381,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -389,7 +389,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -397,7 +397,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -405,7 +405,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -413,7 +413,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -421,7 +421,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -429,7 +429,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -437,7 +437,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -445,7 +445,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -453,7 +453,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -461,7 +461,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -469,7 +469,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -477,7 +477,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -485,7 +485,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -493,7 +493,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "cognition",
@@ -501,7 +501,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -509,7 +509,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -517,7 +517,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -525,7 +525,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "place",
@@ -533,7 +533,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -541,7 +541,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -549,7 +549,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -557,7 +557,7 @@ export default [
         "PSSR": "institution",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -565,7 +565,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -573,7 +573,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -581,7 +581,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -589,7 +589,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -597,7 +597,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -605,7 +605,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -613,7 +613,7 @@ export default [
         "PSSR": "transport",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -621,7 +621,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -629,7 +629,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -637,7 +637,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -645,7 +645,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -653,7 +653,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -661,7 +661,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "unit",
@@ -669,7 +669,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -677,7 +677,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "flora_fauna",
@@ -685,7 +685,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "human",
@@ -693,7 +693,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -701,7 +701,7 @@ export default [
         "PSSR": "place",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -709,7 +709,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "knowledge",
@@ -717,7 +717,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -725,7 +725,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -733,7 +733,7 @@ export default [
         "PSSR": "institution",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -741,7 +741,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -749,7 +749,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "human",
@@ -757,7 +757,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -765,7 +765,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -773,7 +773,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -781,7 +781,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -789,7 +789,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -797,7 +797,7 @@ export default [
         "PSSR": "institution",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -805,7 +805,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -813,7 +813,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -821,7 +821,7 @@ export default [
         "PSSR": "institution",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "unit",
@@ -829,7 +829,7 @@ export default [
         "PSSR": "place",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "property",
@@ -837,7 +837,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -845,7 +845,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "digital_artefact",
@@ -853,7 +853,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "human",
@@ -861,7 +861,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "portable_obj",
@@ -869,7 +869,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -877,7 +877,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -885,7 +885,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -893,7 +893,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -901,7 +901,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "human",
@@ -909,7 +909,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -917,7 +917,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -925,7 +925,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "human",
@@ -933,7 +933,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "other",
@@ -941,7 +941,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -949,7 +949,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "human",
@@ -957,7 +957,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -965,7 +965,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -973,7 +973,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "activity",
@@ -981,7 +981,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -989,7 +989,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "part",
@@ -997,7 +997,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -1005,7 +1005,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "digital_artefact",
@@ -1013,7 +1013,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "human",
@@ -1021,7 +1021,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -1029,7 +1029,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "human",
@@ -1037,7 +1037,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "property",
@@ -1045,7 +1045,7 @@ export default [
         "PSSR": "portable_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -1053,7 +1053,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -1061,7 +1061,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "time",
@@ -1069,7 +1069,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -1077,7 +1077,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "unit",
@@ -1085,7 +1085,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -1093,7 +1093,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -1101,7 +1101,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -1109,7 +1109,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "consumable",
@@ -1117,7 +1117,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "consumable",
@@ -1125,7 +1125,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "consumable",
@@ -1133,7 +1133,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "consumable",
@@ -1141,7 +1141,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "consumable",
@@ -1149,7 +1149,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "consumable",
@@ -1157,7 +1157,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -1165,7 +1165,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "large_obj",
@@ -1173,7 +1173,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "flora_fauna",
@@ -1181,7 +1181,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -1189,7 +1189,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "activity",
@@ -1197,7 +1197,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "activity",
@@ -1205,7 +1205,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -1213,7 +1213,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -1221,7 +1221,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -1229,7 +1229,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "human",
@@ -1237,7 +1237,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -1245,7 +1245,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "human",
@@ -1253,7 +1253,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -1261,7 +1261,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -1269,7 +1269,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -1277,7 +1277,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "digital_artefact",
@@ -1285,7 +1285,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "place",
@@ -1293,7 +1293,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -1301,7 +1301,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "part",
@@ -1309,7 +1309,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -1317,7 +1317,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -1325,7 +1325,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -1333,7 +1333,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1341,7 +1341,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "flora_fauna",
@@ -1349,7 +1349,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -1357,7 +1357,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -1365,7 +1365,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -1373,7 +1373,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "place",
@@ -1381,7 +1381,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -1389,7 +1389,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -1397,7 +1397,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -1405,7 +1405,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "institution",
@@ -1413,7 +1413,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -1421,7 +1421,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -1429,7 +1429,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -1437,7 +1437,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -1445,7 +1445,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -1453,7 +1453,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "activity",
@@ -1461,7 +1461,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "property",
@@ -1469,7 +1469,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "body",
@@ -1477,7 +1477,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "activity",
@@ -1485,7 +1485,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -1493,7 +1493,7 @@ export default [
         "PSSR": "consumable",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -1501,7 +1501,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -1509,7 +1509,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -1517,7 +1517,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -1525,7 +1525,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -1533,7 +1533,7 @@ export default [
         "PSSR": "unit",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "activity",
@@ -1541,7 +1541,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -1549,7 +1549,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -1557,7 +1557,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -1565,7 +1565,7 @@ export default [
         "PSSR": "institution",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "property",
@@ -1573,7 +1573,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -1581,7 +1581,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -1589,7 +1589,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1597,7 +1597,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -1605,7 +1605,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "digital_artefact",
@@ -1613,7 +1613,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "unit",
@@ -1621,7 +1621,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "part",
@@ -1629,7 +1629,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1637,7 +1637,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -1645,7 +1645,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -1653,7 +1653,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -1661,7 +1661,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "unit",
@@ -1669,7 +1669,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -1677,7 +1677,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -1685,7 +1685,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1693,7 +1693,7 @@ export default [
         "PSSR": "portable_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -1701,7 +1701,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -1709,7 +1709,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -1717,7 +1717,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -1725,7 +1725,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -1733,7 +1733,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -1741,7 +1741,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -1749,7 +1749,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -1757,7 +1757,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -1765,7 +1765,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -1773,7 +1773,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1781,7 +1781,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1789,7 +1789,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1797,7 +1797,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1805,7 +1805,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1813,7 +1813,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1821,7 +1821,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1829,7 +1829,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1837,7 +1837,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1845,7 +1845,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1853,7 +1853,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1861,7 +1861,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1869,7 +1869,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1877,7 +1877,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1885,7 +1885,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1893,7 +1893,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1901,7 +1901,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1909,7 +1909,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1917,7 +1917,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1925,7 +1925,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1933,7 +1933,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1941,7 +1941,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1949,7 +1949,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -1957,7 +1957,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1965,7 +1965,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1973,7 +1973,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -1981,7 +1981,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "other",
@@ -1989,15 +1989,15 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
         "RELA": "<kin",
         "PSSR": "human",
         "Marker": "a",
-        "Predicted": "o",
-        "Match": "yes"
+        "Predicted": "a",
+        "Type": "a_expected"
     },
     {
         "PSSM": "place",
@@ -2005,7 +2005,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -2013,7 +2013,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -2021,7 +2021,7 @@ export default [
         "PSSR": "large_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "portable_obj",
@@ -2029,7 +2029,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -2037,7 +2037,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -2045,7 +2045,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -2053,7 +2053,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2061,7 +2061,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2069,7 +2069,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -2077,7 +2077,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -2085,7 +2085,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "human",
@@ -2093,7 +2093,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -2101,7 +2101,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "activity",
@@ -2109,7 +2109,7 @@ export default [
         "PSSR": "activity",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -2117,7 +2117,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -2125,7 +2125,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -2133,7 +2133,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "digital_artefact",
@@ -2141,7 +2141,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -2149,7 +2149,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -2157,7 +2157,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -2165,7 +2165,7 @@ export default [
         "PSSR": "other",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "human",
@@ -2173,7 +2173,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -2181,7 +2181,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -2189,7 +2189,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2197,7 +2197,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2205,7 +2205,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2213,7 +2213,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2221,7 +2221,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -2229,7 +2229,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2237,7 +2237,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -2245,7 +2245,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2253,7 +2253,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "property",
@@ -2261,7 +2261,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2269,7 +2269,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2277,7 +2277,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2285,7 +2285,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -2293,7 +2293,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -2301,7 +2301,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "activity",
@@ -2309,7 +2309,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -2317,7 +2317,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2325,7 +2325,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -2333,7 +2333,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "human",
@@ -2341,7 +2341,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -2349,7 +2349,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -2357,7 +2357,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -2365,7 +2365,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -2373,7 +2373,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -2381,7 +2381,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -2389,7 +2389,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -2397,7 +2397,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -2405,7 +2405,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -2413,7 +2413,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "human",
@@ -2421,7 +2421,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -2429,7 +2429,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -2437,7 +2437,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -2445,7 +2445,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -2453,7 +2453,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2461,7 +2461,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -2469,7 +2469,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -2477,7 +2477,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -2485,7 +2485,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -2493,7 +2493,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -2501,7 +2501,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -2509,7 +2509,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -2517,7 +2517,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -2525,7 +2525,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -2533,7 +2533,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "property",
@@ -2541,7 +2541,7 @@ export default [
         "PSSR": "consumable",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "human",
@@ -2549,7 +2549,7 @@ export default [
         "PSSR": "transport",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -2557,7 +2557,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -2565,7 +2565,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -2573,7 +2573,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -2581,7 +2581,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -2589,7 +2589,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -2597,7 +2597,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -2605,7 +2605,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2613,7 +2613,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2621,7 +2621,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2629,7 +2629,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2637,7 +2637,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2645,7 +2645,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2653,7 +2653,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2661,7 +2661,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2669,7 +2669,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -2677,7 +2677,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -2685,7 +2685,7 @@ export default [
         "PSSR": "activity",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "pronoun",
@@ -2693,7 +2693,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -2701,7 +2701,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -2709,7 +2709,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -2717,7 +2717,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "part",
@@ -2725,7 +2725,7 @@ export default [
         "PSSR": "portable_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -2733,7 +2733,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -2741,7 +2741,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -2749,7 +2749,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -2757,7 +2757,7 @@ export default [
         "PSSR": "institution",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "place",
@@ -2765,7 +2765,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -2773,7 +2773,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -2781,7 +2781,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -2789,7 +2789,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -2797,7 +2797,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -2805,7 +2805,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -2813,7 +2813,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -2821,7 +2821,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -2829,7 +2829,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -2837,7 +2837,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -2845,7 +2845,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -2853,7 +2853,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2861,7 +2861,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -2869,7 +2869,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -2877,7 +2877,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -2885,7 +2885,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -2893,7 +2893,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -2901,7 +2901,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -2909,7 +2909,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -2917,7 +2917,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -2925,7 +2925,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -2933,7 +2933,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -2941,7 +2941,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -2949,7 +2949,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -2957,7 +2957,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "portable_obj",
@@ -2965,7 +2965,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "portable_obj",
@@ -2973,7 +2973,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2981,7 +2981,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2989,7 +2989,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -2997,7 +2997,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -3005,7 +3005,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -3013,7 +3013,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -3021,7 +3021,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "knowledge",
@@ -3029,7 +3029,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -3037,7 +3037,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -3045,7 +3045,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -3053,7 +3053,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "knowledge",
@@ -3061,7 +3061,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -3069,7 +3069,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -3077,7 +3077,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -3085,7 +3085,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -3093,7 +3093,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -3101,7 +3101,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -3109,7 +3109,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -3117,7 +3117,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -3125,7 +3125,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -3133,7 +3133,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -3141,7 +3141,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -3149,7 +3149,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -3157,7 +3157,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3165,7 +3165,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3173,7 +3173,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -3181,7 +3181,7 @@ export default [
         "PSSR": "representation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -3189,7 +3189,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -3197,7 +3197,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "institution",
@@ -3205,7 +3205,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -3213,7 +3213,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3221,7 +3221,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3229,7 +3229,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3237,7 +3237,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3245,7 +3245,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3253,7 +3253,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3261,7 +3261,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3269,7 +3269,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3277,7 +3277,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3285,7 +3285,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3293,7 +3293,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3301,7 +3301,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3309,7 +3309,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3317,7 +3317,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3325,7 +3325,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3333,7 +3333,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3341,7 +3341,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3349,7 +3349,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -3357,7 +3357,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3365,7 +3365,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3373,7 +3373,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "property",
@@ -3381,7 +3381,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3389,7 +3389,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -3397,7 +3397,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "human",
@@ -3405,7 +3405,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "institution",
@@ -3413,7 +3413,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -3421,7 +3421,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "portable_obj",
@@ -3429,7 +3429,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "portable_obj",
@@ -3437,7 +3437,7 @@ export default [
         "PSSR": "portable_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -3445,7 +3445,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -3453,7 +3453,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -3461,7 +3461,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "unit",
@@ -3469,7 +3469,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -3477,7 +3477,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -3485,7 +3485,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3493,7 +3493,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3501,7 +3501,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3509,7 +3509,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3517,7 +3517,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3525,7 +3525,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3533,7 +3533,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3541,7 +3541,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3549,7 +3549,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3557,7 +3557,7 @@ export default [
         "PSSR": "portable_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3565,7 +3565,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3573,7 +3573,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3581,7 +3581,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3589,7 +3589,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3597,7 +3597,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "large_obj",
@@ -3605,7 +3605,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -3613,7 +3613,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -3621,7 +3621,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -3629,7 +3629,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -3637,7 +3637,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -3645,7 +3645,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -3653,7 +3653,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -3661,7 +3661,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -3669,7 +3669,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3677,7 +3677,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3685,7 +3685,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3693,7 +3693,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3701,7 +3701,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3709,7 +3709,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3717,7 +3717,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3725,7 +3725,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3733,7 +3733,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3741,7 +3741,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3749,7 +3749,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3757,7 +3757,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -3765,7 +3765,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -3773,7 +3773,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -3781,7 +3781,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -3789,7 +3789,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -3797,7 +3797,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -3805,7 +3805,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -3813,7 +3813,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3821,7 +3821,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -3829,7 +3829,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -3837,7 +3837,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "other",
@@ -3845,7 +3845,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "other",
@@ -3853,7 +3853,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3861,7 +3861,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "flora_fauna",
@@ -3869,7 +3869,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "flora_fauna",
@@ -3877,7 +3877,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "flora_fauna",
@@ -3885,7 +3885,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -3893,7 +3893,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -3901,7 +3901,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -3909,7 +3909,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -3917,7 +3917,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -3925,7 +3925,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -3933,7 +3933,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "institution",
@@ -3941,7 +3941,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -3949,7 +3949,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -3957,7 +3957,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -3965,7 +3965,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -3973,7 +3973,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -3981,7 +3981,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -3989,7 +3989,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -3997,7 +3997,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -4005,7 +4005,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -4013,7 +4013,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -4021,7 +4021,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -4029,7 +4029,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "body",
@@ -4037,7 +4037,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4045,7 +4045,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4053,7 +4053,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4061,7 +4061,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4069,7 +4069,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4077,7 +4077,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4085,7 +4085,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4093,7 +4093,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -4101,7 +4101,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "institution",
@@ -4109,7 +4109,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -4117,7 +4117,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -4125,7 +4125,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "flora_fauna",
@@ -4133,7 +4133,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -4141,7 +4141,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -4149,7 +4149,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4157,7 +4157,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "transport",
@@ -4165,7 +4165,7 @@ export default [
         "PSSR": "transport",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4173,7 +4173,7 @@ export default [
         "PSSR": "transport",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "transport",
@@ -4181,7 +4181,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "flora_fauna",
@@ -4189,7 +4189,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4197,7 +4197,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -4205,7 +4205,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "flora_fauna",
@@ -4213,7 +4213,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -4221,7 +4221,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "large_obj",
@@ -4229,7 +4229,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -4237,7 +4237,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -4245,7 +4245,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4253,7 +4253,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4261,7 +4261,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -4269,7 +4269,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4277,7 +4277,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -4285,7 +4285,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4293,7 +4293,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4301,7 +4301,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4309,7 +4309,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4317,7 +4317,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4325,7 +4325,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4333,7 +4333,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4341,7 +4341,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4349,7 +4349,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4357,7 +4357,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4365,7 +4365,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -4373,7 +4373,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -4381,7 +4381,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -4389,7 +4389,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -4397,7 +4397,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -4405,7 +4405,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4413,7 +4413,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4421,7 +4421,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4429,7 +4429,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4437,7 +4437,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4445,7 +4445,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4453,7 +4453,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4461,7 +4461,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -4469,7 +4469,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4477,7 +4477,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4485,7 +4485,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4493,7 +4493,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4501,7 +4501,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "human",
@@ -4509,7 +4509,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4517,7 +4517,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "human",
@@ -4525,7 +4525,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "human",
@@ -4533,7 +4533,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4541,7 +4541,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4549,7 +4549,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4557,7 +4557,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4565,7 +4565,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4573,7 +4573,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -4581,7 +4581,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -4589,7 +4589,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -4597,7 +4597,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -4605,7 +4605,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "other",
@@ -4613,7 +4613,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "other",
@@ -4621,7 +4621,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4629,7 +4629,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4637,7 +4637,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4645,7 +4645,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -4653,7 +4653,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -4661,7 +4661,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -4669,7 +4669,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -4677,7 +4677,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -4685,7 +4685,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4693,7 +4693,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -4701,7 +4701,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4709,7 +4709,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4717,7 +4717,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4725,7 +4725,7 @@ export default [
         "PSSR": "transport",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -4733,7 +4733,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -4741,7 +4741,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -4749,7 +4749,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "part",
@@ -4757,7 +4757,7 @@ export default [
         "PSSR": "transport",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -4765,7 +4765,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -4773,7 +4773,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -4781,7 +4781,7 @@ export default [
         "PSSR": "part",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -4789,7 +4789,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4797,7 +4797,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -4805,7 +4805,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4813,7 +4813,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -4821,7 +4821,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -4829,7 +4829,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4837,7 +4837,7 @@ export default [
         "PSSR": "portable_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4845,7 +4845,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4853,7 +4853,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -4861,7 +4861,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -4869,7 +4869,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -4877,7 +4877,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -4885,7 +4885,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -4893,7 +4893,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -4901,7 +4901,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -4909,7 +4909,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -4917,7 +4917,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -4925,7 +4925,7 @@ export default [
         "PSSR": "transport",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "flora_fauna",
@@ -4933,7 +4933,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "flora_fauna",
@@ -4941,7 +4941,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -4949,7 +4949,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -4957,7 +4957,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "part",
@@ -4965,7 +4965,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -4973,7 +4973,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -4981,7 +4981,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -4989,7 +4989,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -4997,7 +4997,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5005,7 +5005,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "consumable",
@@ -5013,7 +5013,7 @@ export default [
         "PSSR": "consumable",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -5021,7 +5021,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "time",
@@ -5029,7 +5029,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -5037,7 +5037,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -5045,7 +5045,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -5053,7 +5053,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -5061,7 +5061,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -5069,7 +5069,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -5077,7 +5077,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -5085,7 +5085,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -5093,7 +5093,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5101,7 +5101,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5109,7 +5109,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5117,7 +5117,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -5125,7 +5125,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -5133,7 +5133,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -5141,7 +5141,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -5149,7 +5149,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5157,7 +5157,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5165,7 +5165,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5173,7 +5173,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5181,7 +5181,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -5189,7 +5189,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "representation",
@@ -5197,7 +5197,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5205,7 +5205,7 @@ export default [
         "PSSR": "representation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5213,7 +5213,7 @@ export default [
         "PSSR": "consumable",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5221,7 +5221,7 @@ export default [
         "PSSR": "consumable",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5229,7 +5229,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5237,7 +5237,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5245,7 +5245,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5253,7 +5253,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5261,7 +5261,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -5269,7 +5269,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -5277,7 +5277,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -5285,7 +5285,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -5293,7 +5293,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -5301,7 +5301,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -5309,7 +5309,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -5317,7 +5317,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -5325,7 +5325,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -5333,7 +5333,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -5341,7 +5341,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -5349,7 +5349,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -5357,7 +5357,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -5365,7 +5365,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -5373,7 +5373,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -5381,7 +5381,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -5389,7 +5389,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -5397,7 +5397,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -5405,7 +5405,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -5413,7 +5413,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "digital_artefact",
@@ -5421,7 +5421,7 @@ export default [
         "PSSR": "representation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5429,7 +5429,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5437,7 +5437,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5445,7 +5445,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -5453,7 +5453,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -5461,7 +5461,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -5469,7 +5469,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -5477,7 +5477,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5485,7 +5485,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -5493,7 +5493,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -5501,7 +5501,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "flora_fauna",
@@ -5509,7 +5509,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "large_obj",
@@ -5517,7 +5517,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "large_obj",
@@ -5525,7 +5525,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -5533,7 +5533,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -5541,7 +5541,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5549,7 +5549,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5557,7 +5557,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5565,7 +5565,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -5573,7 +5573,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -5581,7 +5581,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "part",
@@ -5589,7 +5589,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5597,7 +5597,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -5605,7 +5605,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -5613,7 +5613,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -5621,7 +5621,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -5629,7 +5629,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -5637,7 +5637,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -5645,7 +5645,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "digital_artefact",
@@ -5653,7 +5653,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "property",
@@ -5661,7 +5661,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -5669,7 +5669,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -5677,7 +5677,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -5685,7 +5685,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -5693,7 +5693,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -5701,7 +5701,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -5709,7 +5709,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -5717,7 +5717,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -5725,7 +5725,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -5733,7 +5733,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -5741,7 +5741,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -5749,7 +5749,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -5757,7 +5757,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -5765,7 +5765,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -5773,7 +5773,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -5781,7 +5781,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -5789,7 +5789,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -5797,7 +5797,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -5805,7 +5805,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -5813,7 +5813,7 @@ export default [
         "PSSR": "consumable",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -5821,7 +5821,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -5829,7 +5829,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -5837,7 +5837,7 @@ export default [
         "PSSR": "representation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -5845,7 +5845,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -5853,7 +5853,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -5861,7 +5861,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "place",
@@ -5869,7 +5869,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -5877,7 +5877,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5885,7 +5885,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5893,7 +5893,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5901,7 +5901,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -5909,7 +5909,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5917,7 +5917,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5925,7 +5925,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5933,7 +5933,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5941,7 +5941,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5949,7 +5949,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -5957,7 +5957,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5965,7 +5965,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5973,7 +5973,7 @@ export default [
         "PSSR": "consumable",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5981,7 +5981,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -5989,7 +5989,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -5997,7 +5997,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -6005,7 +6005,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -6013,7 +6013,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -6021,7 +6021,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -6029,7 +6029,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -6037,7 +6037,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -6045,7 +6045,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -6053,7 +6053,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -6061,7 +6061,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -6069,7 +6069,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -6077,7 +6077,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -6085,7 +6085,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -6093,7 +6093,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -6101,7 +6101,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -6109,7 +6109,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -6117,7 +6117,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -6125,7 +6125,7 @@ export default [
         "PSSR": "part",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -6133,7 +6133,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6141,7 +6141,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6149,7 +6149,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6157,7 +6157,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6165,7 +6165,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6173,7 +6173,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6181,7 +6181,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6189,7 +6189,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6197,7 +6197,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6205,7 +6205,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6213,7 +6213,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6221,7 +6221,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "human",
@@ -6229,7 +6229,7 @@ export default [
         "PSSR": "transport",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6237,7 +6237,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6245,7 +6245,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6253,7 +6253,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6261,7 +6261,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6269,7 +6269,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6277,7 +6277,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6285,7 +6285,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6293,7 +6293,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6301,7 +6301,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6309,7 +6309,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6317,7 +6317,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6325,7 +6325,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6333,7 +6333,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6341,7 +6341,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "consumable",
@@ -6349,7 +6349,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "knowledge",
@@ -6357,7 +6357,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -6365,7 +6365,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -6373,7 +6373,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -6381,7 +6381,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -6389,7 +6389,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -6397,7 +6397,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -6405,7 +6405,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -6413,7 +6413,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -6421,7 +6421,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -6429,7 +6429,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6437,7 +6437,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -6445,7 +6445,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -6453,7 +6453,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -6461,7 +6461,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -6469,7 +6469,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -6477,7 +6477,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -6485,7 +6485,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -6493,7 +6493,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -6501,7 +6501,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -6509,7 +6509,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -6517,7 +6517,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -6525,7 +6525,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -6533,7 +6533,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -6541,7 +6541,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -6549,7 +6549,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -6557,7 +6557,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -6565,7 +6565,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -6573,7 +6573,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -6581,7 +6581,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -6589,7 +6589,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -6597,7 +6597,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -6605,7 +6605,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -6613,7 +6613,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "flora_fauna",
@@ -6621,7 +6621,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -6629,7 +6629,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -6637,7 +6637,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -6645,7 +6645,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -6653,7 +6653,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -6661,7 +6661,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -6669,7 +6669,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -6677,7 +6677,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "knowledge",
@@ -6685,7 +6685,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -6693,7 +6693,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "consumable",
@@ -6701,7 +6701,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "consumable",
@@ -6709,7 +6709,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "consumable",
@@ -6717,7 +6717,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "consumable",
@@ -6725,7 +6725,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "consumable",
@@ -6733,7 +6733,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "consumable",
@@ -6741,7 +6741,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "consumable",
@@ -6749,7 +6749,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "consumable",
@@ -6757,7 +6757,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -6765,7 +6765,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -6773,7 +6773,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -6781,7 +6781,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -6789,7 +6789,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -6797,7 +6797,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -6805,7 +6805,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "flora_fauna",
@@ -6813,7 +6813,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "flora_fauna",
@@ -6821,7 +6821,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -6829,7 +6829,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -6837,7 +6837,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -6845,7 +6845,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6853,7 +6853,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6861,7 +6861,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -6869,7 +6869,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -6877,7 +6877,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -6885,7 +6885,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "activity",
@@ -6893,7 +6893,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -6901,7 +6901,7 @@ export default [
         "PSSR": "large_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -6909,7 +6909,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -6917,7 +6917,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -6925,7 +6925,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -6933,7 +6933,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -6941,7 +6941,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -6949,7 +6949,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -6957,7 +6957,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -6965,7 +6965,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6973,7 +6973,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6981,7 +6981,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -6989,7 +6989,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -6997,7 +6997,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -7005,7 +7005,7 @@ export default [
         "PSSR": "consumable",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -7013,7 +7013,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -7021,7 +7021,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7029,7 +7029,7 @@ export default [
         "PSSR": "consumable",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -7037,7 +7037,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -7045,7 +7045,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -7053,7 +7053,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7061,7 +7061,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "institution",
@@ -7069,7 +7069,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -7077,7 +7077,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7085,7 +7085,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7093,7 +7093,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7101,7 +7101,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7109,7 +7109,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7117,7 +7117,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7125,7 +7125,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7133,7 +7133,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7141,7 +7141,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7149,7 +7149,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7157,7 +7157,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7165,7 +7165,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7173,7 +7173,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7181,7 +7181,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7189,7 +7189,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7197,7 +7197,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7205,7 +7205,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7213,7 +7213,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7221,7 +7221,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7229,7 +7229,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7237,7 +7237,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7245,7 +7245,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7253,7 +7253,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7261,7 +7261,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7269,7 +7269,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7277,7 +7277,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7285,7 +7285,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7293,7 +7293,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -7301,7 +7301,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7309,7 +7309,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7317,7 +7317,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "portable_obj",
@@ -7325,7 +7325,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "human",
@@ -7333,7 +7333,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7341,7 +7341,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7349,7 +7349,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7357,7 +7357,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7365,7 +7365,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7373,7 +7373,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7381,7 +7381,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7389,7 +7389,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -7397,7 +7397,7 @@ export default [
         "PSSR": "part",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7405,7 +7405,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -7413,7 +7413,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -7421,7 +7421,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -7429,7 +7429,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -7437,7 +7437,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -7445,7 +7445,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7453,7 +7453,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7461,7 +7461,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -7469,7 +7469,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -7477,7 +7477,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -7485,7 +7485,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -7493,7 +7493,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -7501,7 +7501,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -7509,7 +7509,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -7517,7 +7517,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -7525,7 +7525,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -7533,7 +7533,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -7541,7 +7541,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -7549,7 +7549,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -7557,7 +7557,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -7565,7 +7565,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -7573,7 +7573,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -7581,7 +7581,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7589,7 +7589,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -7597,7 +7597,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -7605,7 +7605,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -7613,7 +7613,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -7621,7 +7621,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7629,7 +7629,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -7637,7 +7637,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -7645,7 +7645,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "property",
@@ -7653,7 +7653,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -7661,7 +7661,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -7669,7 +7669,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "consumable",
@@ -7677,7 +7677,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "place",
@@ -7685,7 +7685,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -7693,7 +7693,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -7701,7 +7701,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -7709,7 +7709,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -7717,7 +7717,7 @@ export default [
         "PSSR": "transport",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -7725,7 +7725,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -7733,7 +7733,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -7741,7 +7741,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -7749,7 +7749,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -7757,7 +7757,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -7765,7 +7765,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -7773,7 +7773,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "place",
@@ -7781,7 +7781,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -7789,7 +7789,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -7797,7 +7797,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -7805,7 +7805,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -7813,7 +7813,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -7821,7 +7821,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -7829,7 +7829,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -7837,7 +7837,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -7845,7 +7845,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7853,7 +7853,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -7861,7 +7861,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -7869,7 +7869,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -7877,7 +7877,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -7885,7 +7885,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -7893,7 +7893,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -7901,7 +7901,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -7909,7 +7909,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7917,7 +7917,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -7925,7 +7925,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "digital_artefact",
@@ -7933,7 +7933,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -7941,7 +7941,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7949,7 +7949,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -7957,7 +7957,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -7965,7 +7965,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7973,7 +7973,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7981,7 +7981,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -7989,7 +7989,7 @@ export default [
         "PSSR": "consumable",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -7997,7 +7997,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -8005,7 +8005,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -8013,7 +8013,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -8021,7 +8021,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -8029,7 +8029,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -8037,7 +8037,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -8045,7 +8045,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -8053,7 +8053,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -8061,7 +8061,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -8069,7 +8069,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -8077,7 +8077,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -8085,7 +8085,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -8093,7 +8093,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -8101,7 +8101,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -8109,7 +8109,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -8117,7 +8117,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -8125,7 +8125,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -8133,7 +8133,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -8141,7 +8141,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -8149,7 +8149,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -8157,7 +8157,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -8165,7 +8165,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -8173,7 +8173,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -8181,7 +8181,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -8189,7 +8189,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -8197,7 +8197,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -8205,7 +8205,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -8213,7 +8213,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -8221,7 +8221,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -8229,7 +8229,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8237,7 +8237,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -8245,7 +8245,7 @@ export default [
         "PSSR": "transport",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -8253,7 +8253,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8261,7 +8261,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -8269,7 +8269,7 @@ export default [
         "PSSR": "body",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "representation",
@@ -8277,7 +8277,7 @@ export default [
         "PSSR": "portable_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -8285,7 +8285,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -8293,7 +8293,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -8301,7 +8301,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -8309,7 +8309,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "flora_fauna",
@@ -8317,7 +8317,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -8325,7 +8325,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -8333,7 +8333,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -8341,7 +8341,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -8349,7 +8349,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8357,7 +8357,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8365,7 +8365,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8373,7 +8373,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8381,7 +8381,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8389,7 +8389,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -8397,7 +8397,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -8405,7 +8405,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -8413,7 +8413,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8421,7 +8421,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8429,7 +8429,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8437,7 +8437,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8445,7 +8445,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8453,7 +8453,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -8461,7 +8461,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8469,7 +8469,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8477,7 +8477,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8485,7 +8485,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8493,7 +8493,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -8501,7 +8501,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8509,7 +8509,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8517,7 +8517,7 @@ export default [
         "PSSR": "transport",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -8525,7 +8525,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -8533,7 +8533,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -8541,7 +8541,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -8549,7 +8549,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -8557,7 +8557,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -8565,7 +8565,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -8573,7 +8573,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8581,7 +8581,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8589,7 +8589,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -8597,7 +8597,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -8605,7 +8605,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -8613,7 +8613,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -8621,7 +8621,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -8629,7 +8629,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -8637,7 +8637,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -8645,7 +8645,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -8653,7 +8653,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -8661,7 +8661,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -8669,7 +8669,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -8677,7 +8677,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -8685,7 +8685,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8693,7 +8693,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -8701,7 +8701,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -8709,7 +8709,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -8717,7 +8717,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -8725,7 +8725,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -8733,7 +8733,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -8741,7 +8741,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -8749,7 +8749,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -8757,7 +8757,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -8765,7 +8765,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -8773,7 +8773,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -8781,7 +8781,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -8789,7 +8789,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -8797,7 +8797,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -8805,7 +8805,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -8813,7 +8813,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -8821,7 +8821,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -8829,7 +8829,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -8837,7 +8837,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -8845,7 +8845,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -8853,7 +8853,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -8861,7 +8861,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -8869,7 +8869,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -8877,7 +8877,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -8885,7 +8885,7 @@ export default [
         "PSSR": "consumable",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -8893,7 +8893,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -8901,7 +8901,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -8909,7 +8909,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -8917,7 +8917,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -8925,7 +8925,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -8933,7 +8933,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -8941,7 +8941,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -8949,7 +8949,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -8957,7 +8957,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8965,7 +8965,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8973,7 +8973,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8981,7 +8981,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8989,7 +8989,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -8997,7 +8997,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -9005,7 +9005,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9013,7 +9013,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -9021,7 +9021,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -9029,7 +9029,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9037,7 +9037,7 @@ export default [
         "PSSR": "institution",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "large_obj",
@@ -9045,7 +9045,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9053,7 +9053,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -9061,7 +9061,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9069,7 +9069,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9077,7 +9077,7 @@ export default [
         "PSSR": "representation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -9085,7 +9085,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -9093,7 +9093,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -9101,7 +9101,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -9109,7 +9109,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -9117,7 +9117,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -9125,7 +9125,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -9133,7 +9133,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -9141,7 +9141,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -9149,7 +9149,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -9157,7 +9157,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9165,7 +9165,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -9173,7 +9173,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -9181,7 +9181,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -9189,7 +9189,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -9197,7 +9197,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -9205,7 +9205,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -9213,7 +9213,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -9221,7 +9221,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -9229,7 +9229,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -9237,7 +9237,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -9245,7 +9245,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -9253,7 +9253,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -9261,7 +9261,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -9269,7 +9269,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -9277,7 +9277,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -9285,7 +9285,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -9293,7 +9293,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9301,7 +9301,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "human",
@@ -9309,7 +9309,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -9317,7 +9317,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -9325,7 +9325,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -9333,7 +9333,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -9341,7 +9341,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -9349,7 +9349,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -9357,7 +9357,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "representation",
@@ -9365,7 +9365,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -9373,7 +9373,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -9381,7 +9381,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -9389,7 +9389,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -9397,7 +9397,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -9405,7 +9405,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -9413,7 +9413,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -9421,7 +9421,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9429,7 +9429,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -9437,7 +9437,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -9445,7 +9445,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -9453,7 +9453,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -9461,7 +9461,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -9469,7 +9469,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -9477,7 +9477,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -9485,7 +9485,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -9493,7 +9493,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -9501,7 +9501,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9509,7 +9509,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -9517,7 +9517,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -9525,7 +9525,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "human",
@@ -9533,7 +9533,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9541,7 +9541,7 @@ export default [
         "PSSR": "large_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9549,7 +9549,7 @@ export default [
         "PSSR": "large_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -9557,31 +9557,31 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
-    },
-    {
-        "PSSM": "human",
-        "RELA": ">=kin",
-        "PSSR": "human",
-        "Marker": "o",
-        "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
         "RELA": "<kin",
         "PSSR": "human",
         "Marker": "o",
-        "Predicted": "o",
-        "Match": "no"
+        "Predicted": "a",
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "human",
         "RELA": "<kin",
         "PSSR": "human",
         "Marker": "o",
-        "Predicted": "o",
-        "Match": "no"
+        "Predicted": "a",
+        "Type": "o_unexpected"
+    },
+    {
+        "PSSM": "human",
+        "RELA": "<kin",
+        "PSSR": "human",
+        "Marker": "o",
+        "Predicted": "a",
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -9589,7 +9589,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -9597,7 +9597,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9605,7 +9605,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -9613,7 +9613,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9621,7 +9621,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "human",
@@ -9629,7 +9629,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -9637,7 +9637,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9645,7 +9645,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9653,7 +9653,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -9661,7 +9661,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -9669,7 +9669,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -9677,7 +9677,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -9685,7 +9685,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -9693,7 +9693,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -9701,7 +9701,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -9709,7 +9709,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -9717,7 +9717,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -9725,7 +9725,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9733,7 +9733,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "human",
@@ -9741,7 +9741,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -9749,7 +9749,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9757,7 +9757,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -9765,7 +9765,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "portable_obj",
@@ -9773,7 +9773,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -9781,7 +9781,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -9789,7 +9789,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "large_obj",
@@ -9797,7 +9797,7 @@ export default [
         "PSSR": "large_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -9805,7 +9805,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -9813,7 +9813,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -9821,7 +9821,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -9829,7 +9829,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -9837,7 +9837,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -9845,7 +9845,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "large_obj",
@@ -9853,7 +9853,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -9861,7 +9861,7 @@ export default [
         "PSSR": "consumable",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -9869,7 +9869,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -9877,7 +9877,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -9885,7 +9885,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -9893,7 +9893,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "institution",
@@ -9901,7 +9901,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -9909,7 +9909,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -9917,7 +9917,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9925,7 +9925,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -9933,7 +9933,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -9941,7 +9941,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9949,7 +9949,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -9957,7 +9957,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -9965,7 +9965,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -9973,7 +9973,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -9981,7 +9981,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9989,7 +9989,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9997,7 +9997,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -10005,7 +10005,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10013,7 +10013,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -10021,7 +10021,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10029,7 +10029,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10037,7 +10037,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10045,7 +10045,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -10053,7 +10053,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -10061,7 +10061,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10069,7 +10069,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10077,7 +10077,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10085,7 +10085,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -10093,7 +10093,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10101,7 +10101,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -10109,7 +10109,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -10117,7 +10117,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -10125,7 +10125,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -10133,7 +10133,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -10141,7 +10141,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -10149,7 +10149,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -10157,7 +10157,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -10165,7 +10165,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -10173,7 +10173,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -10181,7 +10181,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -10189,7 +10189,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10197,7 +10197,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -10205,7 +10205,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10213,7 +10213,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "institution",
@@ -10221,7 +10221,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "digital_artefact",
@@ -10229,7 +10229,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -10237,7 +10237,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10245,7 +10245,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -10253,7 +10253,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -10261,7 +10261,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -10269,7 +10269,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -10277,7 +10277,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10285,7 +10285,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10293,7 +10293,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10301,7 +10301,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10309,7 +10309,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10317,7 +10317,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10325,7 +10325,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10333,7 +10333,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -10341,7 +10341,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -10349,7 +10349,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -10357,7 +10357,7 @@ export default [
         "PSSR": "consumable",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10365,7 +10365,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10373,7 +10373,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -10381,7 +10381,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "part",
@@ -10389,7 +10389,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10397,7 +10397,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "place",
@@ -10405,7 +10405,7 @@ export default [
         "PSSR": "transport",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10413,7 +10413,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -10421,7 +10421,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -10429,7 +10429,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -10437,7 +10437,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -10445,7 +10445,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10453,7 +10453,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10461,7 +10461,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10469,7 +10469,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10477,7 +10477,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10485,7 +10485,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10493,7 +10493,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10501,7 +10501,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10509,7 +10509,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10517,7 +10517,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "flora_fauna",
@@ -10525,7 +10525,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "place",
@@ -10533,7 +10533,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "portable_obj",
@@ -10541,7 +10541,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -10549,7 +10549,7 @@ export default [
         "PSSR": "transport",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10557,7 +10557,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "portable_obj",
@@ -10565,7 +10565,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -10573,7 +10573,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10581,7 +10581,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -10589,7 +10589,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -10597,7 +10597,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -10605,7 +10605,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -10613,7 +10613,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -10621,7 +10621,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10629,7 +10629,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "other",
@@ -10637,7 +10637,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10645,7 +10645,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10653,7 +10653,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10661,7 +10661,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10669,7 +10669,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10677,7 +10677,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10685,7 +10685,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10693,7 +10693,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10701,7 +10701,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -10709,7 +10709,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10717,7 +10717,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -10725,7 +10725,7 @@ export default [
         "PSSR": "institution",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "place",
@@ -10733,7 +10733,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -10741,7 +10741,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -10749,7 +10749,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -10757,7 +10757,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -10765,7 +10765,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -10773,7 +10773,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10781,7 +10781,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -10789,7 +10789,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "digital_artefact",
@@ -10797,7 +10797,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -10805,7 +10805,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -10813,7 +10813,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -10821,7 +10821,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -10829,7 +10829,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10837,7 +10837,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -10845,7 +10845,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -10853,7 +10853,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -10861,7 +10861,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -10869,7 +10869,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -10877,7 +10877,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -10885,7 +10885,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10893,7 +10893,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10901,7 +10901,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10909,7 +10909,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10917,7 +10917,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10925,7 +10925,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10933,7 +10933,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10941,7 +10941,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10949,7 +10949,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10957,7 +10957,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -10965,7 +10965,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10973,7 +10973,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10981,7 +10981,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10989,7 +10989,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -10997,7 +10997,7 @@ export default [
         "PSSR": "large_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -11005,7 +11005,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -11013,7 +11013,7 @@ export default [
         "PSSR": "portable_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -11021,7 +11021,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11029,7 +11029,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -11037,7 +11037,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11045,7 +11045,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -11053,7 +11053,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -11061,7 +11061,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -11069,7 +11069,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11077,7 +11077,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11085,7 +11085,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11093,7 +11093,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -11101,7 +11101,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11109,7 +11109,7 @@ export default [
         "PSSR": "consumable",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11117,7 +11117,7 @@ export default [
         "PSSR": "consumable",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -11125,7 +11125,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -11133,7 +11133,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -11141,7 +11141,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -11149,7 +11149,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -11157,7 +11157,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "flora_fauna",
@@ -11165,7 +11165,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -11173,7 +11173,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -11181,7 +11181,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -11189,7 +11189,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -11197,7 +11197,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "unit",
@@ -11205,7 +11205,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11213,7 +11213,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11221,7 +11221,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -11229,7 +11229,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -11237,7 +11237,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -11245,7 +11245,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -11253,7 +11253,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -11261,7 +11261,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "place",
@@ -11269,7 +11269,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -11277,7 +11277,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11285,7 +11285,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11293,7 +11293,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11301,7 +11301,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11309,7 +11309,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -11317,7 +11317,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -11325,7 +11325,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -11333,7 +11333,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -11341,7 +11341,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "large_obj",
@@ -11349,7 +11349,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -11357,7 +11357,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -11365,7 +11365,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -11373,7 +11373,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -11381,7 +11381,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11389,7 +11389,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -11397,7 +11397,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "other",
@@ -11405,7 +11405,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "other",
@@ -11413,7 +11413,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "other",
@@ -11421,7 +11421,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "other",
@@ -11429,7 +11429,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -11437,7 +11437,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -11445,7 +11445,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -11453,7 +11453,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -11461,7 +11461,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -11469,7 +11469,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -11477,7 +11477,7 @@ export default [
         "PSSR": "transport",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -11485,7 +11485,7 @@ export default [
         "PSSR": "transport",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -11493,7 +11493,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -11501,7 +11501,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -11509,7 +11509,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11517,7 +11517,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11525,7 +11525,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11533,7 +11533,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11541,7 +11541,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11549,7 +11549,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11557,7 +11557,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11565,7 +11565,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11573,7 +11573,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11581,7 +11581,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11589,7 +11589,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11597,7 +11597,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -11605,7 +11605,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11613,7 +11613,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "human",
@@ -11621,7 +11621,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -11629,7 +11629,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -11637,7 +11637,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -11645,7 +11645,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -11653,7 +11653,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -11661,7 +11661,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -11669,7 +11669,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -11677,7 +11677,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -11685,7 +11685,7 @@ export default [
         "PSSR": "time",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "knowledge",
@@ -11693,7 +11693,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -11701,7 +11701,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -11709,7 +11709,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -11717,7 +11717,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -11725,7 +11725,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -11733,7 +11733,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -11741,7 +11741,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -11749,7 +11749,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -11757,7 +11757,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -11765,7 +11765,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -11773,7 +11773,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11781,7 +11781,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11789,7 +11789,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -11797,7 +11797,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -11805,7 +11805,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -11813,7 +11813,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -11821,7 +11821,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -11829,7 +11829,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -11837,7 +11837,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -11845,7 +11845,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -11853,7 +11853,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11861,7 +11861,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -11869,7 +11869,7 @@ export default [
         "PSSR": "consumable",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -11877,7 +11877,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -11885,7 +11885,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -11893,7 +11893,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -11901,7 +11901,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -11909,7 +11909,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -11917,7 +11917,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -11925,7 +11925,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "digital_artefact",
@@ -11933,7 +11933,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -11941,7 +11941,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -11949,7 +11949,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -11957,7 +11957,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -11965,7 +11965,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -11973,7 +11973,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -11981,7 +11981,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -11989,7 +11989,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -11997,7 +11997,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "cognition",
@@ -12005,7 +12005,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -12013,7 +12013,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -12021,7 +12021,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "large_obj",
@@ -12029,7 +12029,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -12037,7 +12037,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -12045,7 +12045,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -12053,7 +12053,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "time",
@@ -12061,7 +12061,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -12069,7 +12069,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -12077,7 +12077,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -12085,7 +12085,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -12093,7 +12093,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -12101,7 +12101,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -12109,7 +12109,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -12117,7 +12117,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -12125,7 +12125,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "place",
@@ -12133,7 +12133,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -12141,7 +12141,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12149,7 +12149,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -12157,7 +12157,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -12165,7 +12165,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -12173,7 +12173,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -12181,7 +12181,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12189,7 +12189,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12197,7 +12197,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12205,7 +12205,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12213,7 +12213,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12221,7 +12221,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12229,7 +12229,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12237,7 +12237,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12245,7 +12245,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12253,7 +12253,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12261,7 +12261,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12269,7 +12269,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -12277,7 +12277,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -12285,7 +12285,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -12293,7 +12293,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -12301,7 +12301,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "other",
@@ -12309,7 +12309,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12317,7 +12317,7 @@ export default [
         "PSSR": "place",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "activity",
@@ -12325,7 +12325,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -12333,7 +12333,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -12341,7 +12341,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -12349,7 +12349,7 @@ export default [
         "PSSR": "place",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "institution",
@@ -12357,7 +12357,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -12365,7 +12365,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -12373,7 +12373,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -12381,7 +12381,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -12389,7 +12389,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -12397,7 +12397,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -12405,7 +12405,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "cognition",
@@ -12413,7 +12413,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -12421,7 +12421,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "transport",
@@ -12429,7 +12429,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "transport",
@@ -12437,7 +12437,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -12445,7 +12445,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -12453,7 +12453,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "digital_artefact",
@@ -12461,7 +12461,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -12469,7 +12469,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -12477,7 +12477,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -12485,7 +12485,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -12493,7 +12493,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -12501,7 +12501,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -12509,7 +12509,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -12517,7 +12517,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -12525,7 +12525,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -12533,7 +12533,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -12541,7 +12541,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -12549,7 +12549,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -12557,7 +12557,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -12565,7 +12565,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -12573,7 +12573,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -12581,7 +12581,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -12589,7 +12589,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -12597,7 +12597,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -12605,7 +12605,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -12613,7 +12613,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -12621,7 +12621,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "time",
@@ -12629,7 +12629,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -12637,7 +12637,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -12645,7 +12645,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -12653,7 +12653,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -12661,7 +12661,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -12669,7 +12669,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -12677,7 +12677,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -12685,7 +12685,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -12693,7 +12693,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -12701,7 +12701,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "part",
@@ -12709,7 +12709,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12717,7 +12717,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12725,7 +12725,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12733,7 +12733,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "human",
@@ -12741,7 +12741,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -12749,7 +12749,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -12757,7 +12757,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "property",
@@ -12765,7 +12765,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12773,7 +12773,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12781,7 +12781,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -12789,7 +12789,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12797,7 +12797,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12805,7 +12805,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12813,7 +12813,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -12821,7 +12821,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -12829,7 +12829,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -12837,7 +12837,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -12845,7 +12845,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -12853,7 +12853,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -12861,7 +12861,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -12869,7 +12869,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -12877,7 +12877,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -12885,7 +12885,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -12893,7 +12893,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -12901,7 +12901,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -12909,7 +12909,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -12917,7 +12917,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "unit",
@@ -12925,7 +12925,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "unit",
@@ -12933,7 +12933,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "unit",
@@ -12941,7 +12941,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "unit",
@@ -12949,7 +12949,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -12957,7 +12957,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "unit",
@@ -12965,7 +12965,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -12973,7 +12973,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "unit",
@@ -12981,7 +12981,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "unit",
@@ -12989,7 +12989,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "unit",
@@ -12997,7 +12997,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "unit",
@@ -13005,7 +13005,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "unit",
@@ -13013,7 +13013,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "unit",
@@ -13021,7 +13021,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -13029,7 +13029,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -13037,7 +13037,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -13045,7 +13045,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -13053,7 +13053,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -13061,7 +13061,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -13069,7 +13069,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -13077,7 +13077,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -13085,7 +13085,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -13093,7 +13093,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -13101,7 +13101,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -13109,7 +13109,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -13117,7 +13117,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "human",
@@ -13125,7 +13125,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -13133,7 +13133,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -13141,7 +13141,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -13149,7 +13149,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -13157,7 +13157,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -13165,7 +13165,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -13173,7 +13173,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -13181,7 +13181,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -13189,7 +13189,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -13197,7 +13197,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -13205,7 +13205,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -13213,7 +13213,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -13221,7 +13221,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -13229,7 +13229,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -13237,7 +13237,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -13245,7 +13245,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -13253,7 +13253,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -13261,7 +13261,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -13269,7 +13269,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13277,7 +13277,7 @@ export default [
         "PSSR": "institution",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "pronoun",
@@ -13285,7 +13285,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13293,7 +13293,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -13301,7 +13301,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13309,7 +13309,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13317,7 +13317,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -13325,7 +13325,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -13333,7 +13333,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -13341,7 +13341,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -13349,7 +13349,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -13357,7 +13357,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -13365,7 +13365,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -13373,7 +13373,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -13381,7 +13381,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -13389,7 +13389,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -13397,7 +13397,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "other",
@@ -13405,7 +13405,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -13413,7 +13413,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13421,7 +13421,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13429,7 +13429,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -13437,7 +13437,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -13445,7 +13445,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -13453,7 +13453,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -13461,7 +13461,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -13469,7 +13469,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -13477,7 +13477,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "portable_obj",
@@ -13485,7 +13485,7 @@ export default [
         "PSSR": "unit",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "unit",
@@ -13493,7 +13493,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -13501,7 +13501,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "property",
@@ -13509,7 +13509,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "human",
@@ -13517,7 +13517,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -13525,7 +13525,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -13533,7 +13533,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -13541,7 +13541,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -13549,7 +13549,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -13557,7 +13557,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -13565,7 +13565,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "pronoun",
@@ -13573,7 +13573,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13581,7 +13581,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -13589,7 +13589,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -13597,7 +13597,7 @@ export default [
         "PSSR": "place",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "activity",
@@ -13605,7 +13605,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "cognition",
@@ -13613,7 +13613,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -13621,7 +13621,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -13629,7 +13629,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13637,7 +13637,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13645,7 +13645,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13653,7 +13653,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13661,7 +13661,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13669,7 +13669,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13677,7 +13677,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13685,7 +13685,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13693,7 +13693,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13701,7 +13701,7 @@ export default [
         "PSSR": "large_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -13709,7 +13709,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13717,7 +13717,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -13725,7 +13725,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -13733,7 +13733,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "activity",
@@ -13741,7 +13741,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -13749,7 +13749,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -13757,7 +13757,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -13765,7 +13765,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -13773,7 +13773,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -13781,7 +13781,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -13789,7 +13789,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -13797,7 +13797,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -13805,7 +13805,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "unit",
@@ -13813,7 +13813,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "unit",
@@ -13821,7 +13821,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "unit",
@@ -13829,7 +13829,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "unit",
@@ -13837,7 +13837,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "unit",
@@ -13845,7 +13845,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "unit",
@@ -13853,7 +13853,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "unit",
@@ -13861,7 +13861,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -13869,7 +13869,7 @@ export default [
         "PSSR": "institution",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -13877,7 +13877,7 @@ export default [
         "PSSR": "place",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "place",
@@ -13885,7 +13885,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13893,7 +13893,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13901,7 +13901,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13909,7 +13909,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13917,7 +13917,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13925,7 +13925,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13933,7 +13933,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13941,7 +13941,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13949,7 +13949,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13957,7 +13957,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -13965,7 +13965,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -13973,7 +13973,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -13981,7 +13981,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -13989,7 +13989,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -13997,7 +13997,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14005,7 +14005,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -14013,7 +14013,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -14021,7 +14021,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -14029,7 +14029,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -14037,7 +14037,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -14045,7 +14045,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14053,7 +14053,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14061,7 +14061,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -14069,7 +14069,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14077,7 +14077,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14085,7 +14085,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -14093,7 +14093,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -14101,7 +14101,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "human",
@@ -14109,7 +14109,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "human",
@@ -14117,7 +14117,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -14125,7 +14125,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -14133,7 +14133,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -14141,7 +14141,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -14149,7 +14149,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -14157,7 +14157,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -14165,7 +14165,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -14173,7 +14173,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -14181,7 +14181,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14189,7 +14189,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -14197,7 +14197,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -14205,7 +14205,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -14213,7 +14213,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14221,7 +14221,7 @@ export default [
         "PSSR": "consumable",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "consumable",
@@ -14229,7 +14229,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "consumable",
@@ -14237,7 +14237,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -14245,7 +14245,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -14253,7 +14253,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -14261,7 +14261,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14269,7 +14269,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -14277,7 +14277,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -14285,7 +14285,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -14293,7 +14293,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -14301,7 +14301,7 @@ export default [
         "PSSR": "representation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -14309,7 +14309,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -14317,7 +14317,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -14325,7 +14325,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -14333,7 +14333,7 @@ export default [
         "PSSR": "place",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -14341,7 +14341,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -14349,7 +14349,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -14357,7 +14357,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14365,7 +14365,7 @@ export default [
         "PSSR": "institution",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "unit",
@@ -14373,7 +14373,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -14381,7 +14381,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -14389,7 +14389,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -14397,7 +14397,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -14405,7 +14405,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14413,7 +14413,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -14421,7 +14421,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14429,7 +14429,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14437,7 +14437,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14445,7 +14445,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14453,7 +14453,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14461,7 +14461,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14469,7 +14469,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14477,7 +14477,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14485,7 +14485,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -14493,7 +14493,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14501,7 +14501,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "consumable",
@@ -14509,7 +14509,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -14517,7 +14517,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14525,7 +14525,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -14533,7 +14533,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -14541,7 +14541,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -14549,7 +14549,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -14557,7 +14557,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -14565,7 +14565,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -14573,7 +14573,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -14581,7 +14581,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -14589,7 +14589,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14597,7 +14597,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -14605,7 +14605,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14613,7 +14613,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -14621,7 +14621,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -14629,7 +14629,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -14637,7 +14637,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -14645,7 +14645,7 @@ export default [
         "PSSR": "transport",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "digital_artefact",
@@ -14653,7 +14653,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14661,7 +14661,7 @@ export default [
         "PSSR": "representation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -14669,7 +14669,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "transport",
@@ -14677,7 +14677,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "transport",
@@ -14685,7 +14685,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "transport",
@@ -14693,7 +14693,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -14701,7 +14701,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -14709,7 +14709,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -14717,7 +14717,7 @@ export default [
         "PSSR": "place",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "human",
@@ -14725,7 +14725,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -14733,7 +14733,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -14741,7 +14741,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -14749,7 +14749,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -14757,7 +14757,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "portable_obj",
@@ -14765,7 +14765,7 @@ export default [
         "PSSR": "part",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14773,7 +14773,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -14781,7 +14781,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "flora_fauna",
@@ -14789,7 +14789,7 @@ export default [
         "PSSR": "transport",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "activity",
@@ -14797,7 +14797,7 @@ export default [
         "PSSR": "representation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14805,7 +14805,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "unit",
@@ -14813,7 +14813,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -14821,7 +14821,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -14829,7 +14829,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -14837,7 +14837,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -14845,7 +14845,7 @@ export default [
         "PSSR": "representation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -14853,7 +14853,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14861,7 +14861,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "property",
@@ -14869,7 +14869,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14877,7 +14877,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -14885,7 +14885,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "time",
@@ -14893,7 +14893,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14901,7 +14901,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -14909,7 +14909,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "human",
@@ -14917,7 +14917,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -14925,7 +14925,7 @@ export default [
         "PSSR": "transport",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -14933,7 +14933,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -14941,7 +14941,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -14949,7 +14949,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -14957,7 +14957,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -14965,7 +14965,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14973,7 +14973,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -14981,7 +14981,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14989,7 +14989,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -14997,7 +14997,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -15005,7 +15005,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -15013,7 +15013,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -15021,7 +15021,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -15029,7 +15029,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -15037,7 +15037,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -15045,7 +15045,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -15053,7 +15053,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -15061,7 +15061,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -15069,7 +15069,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -15077,7 +15077,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -15085,7 +15085,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -15093,7 +15093,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -15101,7 +15101,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -15109,7 +15109,7 @@ export default [
         "PSSR": "institution",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -15117,7 +15117,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -15125,7 +15125,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "consumable",
@@ -15133,7 +15133,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -15141,7 +15141,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -15149,7 +15149,7 @@ export default [
         "PSSR": "transport",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "consumable",
@@ -15157,7 +15157,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -15165,7 +15165,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "activity",
@@ -15173,7 +15173,7 @@ export default [
         "PSSR": "large_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -15181,7 +15181,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "unit",
@@ -15189,7 +15189,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -15197,7 +15197,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "property",
@@ -15205,7 +15205,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -15213,7 +15213,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -15221,7 +15221,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -15229,7 +15229,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -15237,7 +15237,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -15245,7 +15245,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -15253,7 +15253,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -15261,7 +15261,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -15269,7 +15269,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -15277,7 +15277,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -15285,7 +15285,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -15293,7 +15293,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -15301,7 +15301,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -15309,7 +15309,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -15317,7 +15317,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -15325,7 +15325,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -15333,7 +15333,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -15341,7 +15341,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "place",
@@ -15349,7 +15349,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -15357,7 +15357,7 @@ export default [
         "PSSR": "institution",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -15365,7 +15365,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -15373,7 +15373,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -15381,7 +15381,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "institution",
@@ -15389,7 +15389,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -15397,7 +15397,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -15405,7 +15405,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "part",
@@ -15413,7 +15413,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -15421,7 +15421,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -15429,7 +15429,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -15437,7 +15437,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -15445,7 +15445,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -15453,7 +15453,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -15461,7 +15461,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -15469,7 +15469,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "cognition",
@@ -15477,7 +15477,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -15485,7 +15485,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "portable_obj",
@@ -15493,7 +15493,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "part",
@@ -15501,7 +15501,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -15509,7 +15509,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -15517,7 +15517,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -15525,7 +15525,7 @@ export default [
         "PSSR": "consumable",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -15533,7 +15533,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -15541,7 +15541,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -15549,7 +15549,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -15557,7 +15557,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -15565,7 +15565,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -15573,7 +15573,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -15581,7 +15581,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -15589,7 +15589,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -15597,7 +15597,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -15605,7 +15605,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -15613,7 +15613,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -15621,7 +15621,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -15629,7 +15629,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -15637,7 +15637,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -15645,7 +15645,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -15653,7 +15653,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "portable_obj",
@@ -15661,7 +15661,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "unit",
@@ -15669,7 +15669,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -15677,7 +15677,7 @@ export default [
         "PSSR": "consumable",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -15685,7 +15685,7 @@ export default [
         "PSSR": "large_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -15693,7 +15693,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -15701,7 +15701,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -15709,7 +15709,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -15717,7 +15717,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "digital_artefact",
@@ -15725,7 +15725,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -15733,7 +15733,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "flora_fauna",
@@ -15741,7 +15741,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -15749,7 +15749,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -15757,7 +15757,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -15765,7 +15765,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -15773,7 +15773,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -15781,7 +15781,7 @@ export default [
         "PSSR": "large_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -15789,7 +15789,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -15797,7 +15797,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -15805,7 +15805,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -15813,7 +15813,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -15821,7 +15821,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "flora_fauna",
@@ -15829,7 +15829,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -15837,7 +15837,7 @@ export default [
         "PSSR": "representation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -15845,7 +15845,7 @@ export default [
         "PSSR": "transport",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "other",
@@ -15853,7 +15853,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -15861,7 +15861,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -15869,7 +15869,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "property",
@@ -15877,7 +15877,7 @@ export default [
         "PSSR": "place",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "unit",
@@ -15885,7 +15885,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -15893,7 +15893,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -15901,7 +15901,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -15909,7 +15909,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "institution",
@@ -15917,7 +15917,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -15925,7 +15925,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -15933,7 +15933,7 @@ export default [
         "PSSR": "activity",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "place",
@@ -15941,7 +15941,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -15949,7 +15949,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -15957,7 +15957,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -15965,7 +15965,7 @@ export default [
         "PSSR": "large_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -15973,7 +15973,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -15981,7 +15981,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -15989,7 +15989,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -15997,7 +15997,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -16005,7 +16005,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -16013,7 +16013,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -16021,7 +16021,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "property",
@@ -16029,7 +16029,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16037,7 +16037,7 @@ export default [
         "PSSR": "transport",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -16045,7 +16045,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -16053,7 +16053,7 @@ export default [
         "PSSR": "institution",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "unit",
@@ -16061,7 +16061,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -16069,7 +16069,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -16077,7 +16077,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -16085,7 +16085,7 @@ export default [
         "PSSR": "digital_artefact",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -16093,7 +16093,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -16101,7 +16101,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -16109,7 +16109,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16117,7 +16117,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16125,7 +16125,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -16133,7 +16133,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -16141,7 +16141,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -16149,7 +16149,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -16157,7 +16157,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -16165,7 +16165,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "human",
@@ -16173,7 +16173,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -16181,7 +16181,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -16189,7 +16189,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -16197,7 +16197,7 @@ export default [
         "PSSR": "body",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -16205,7 +16205,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "cognition",
@@ -16213,7 +16213,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -16221,7 +16221,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -16229,7 +16229,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -16237,7 +16237,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -16245,7 +16245,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -16253,7 +16253,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "property",
@@ -16261,7 +16261,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -16269,7 +16269,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -16277,7 +16277,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -16285,7 +16285,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "property",
@@ -16293,7 +16293,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -16301,7 +16301,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -16309,7 +16309,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -16317,7 +16317,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -16325,7 +16325,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -16333,7 +16333,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -16341,7 +16341,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -16349,7 +16349,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -16357,7 +16357,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -16365,7 +16365,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "flora_fauna",
@@ -16373,7 +16373,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "flora_fauna",
@@ -16381,7 +16381,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "other",
@@ -16389,7 +16389,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -16397,7 +16397,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -16405,7 +16405,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "unit",
@@ -16413,7 +16413,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "unit",
@@ -16421,7 +16421,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "unit",
@@ -16429,7 +16429,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "unit",
@@ -16437,7 +16437,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "unit",
@@ -16445,7 +16445,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "unit",
@@ -16453,7 +16453,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "activity",
@@ -16461,7 +16461,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "place",
@@ -16469,7 +16469,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -16477,7 +16477,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -16485,7 +16485,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "a",
         "Predicted": "o",
-        "Match": "no"
+        "Type": "a_unexpected"
     },
     {
         "PSSM": "human",
@@ -16493,7 +16493,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "time",
@@ -16501,7 +16501,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "place",
@@ -16509,7 +16509,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -16517,7 +16517,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -16525,7 +16525,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -16533,7 +16533,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16541,7 +16541,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -16549,7 +16549,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "human",
@@ -16557,7 +16557,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -16565,7 +16565,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "portable_obj",
@@ -16573,7 +16573,7 @@ export default [
         "PSSR": "consumable",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -16581,7 +16581,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -16589,7 +16589,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -16597,7 +16597,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16605,7 +16605,7 @@ export default [
         "PSSR": "flora_fauna",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -16613,7 +16613,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -16621,7 +16621,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -16629,7 +16629,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -16637,7 +16637,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -16645,7 +16645,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -16653,7 +16653,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -16661,7 +16661,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "a",
-        "Match": "no"
+        "Type": "o_unexpected"
     },
     {
         "PSSM": "property",
@@ -16669,7 +16669,7 @@ export default [
         "PSSR": "other",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16677,7 +16677,7 @@ export default [
         "PSSR": "portable_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -16685,7 +16685,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -16693,7 +16693,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -16701,7 +16701,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -16709,7 +16709,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -16717,7 +16717,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16725,7 +16725,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16733,7 +16733,7 @@ export default [
         "PSSR": "property",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "time",
@@ -16741,7 +16741,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16749,7 +16749,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16757,7 +16757,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16765,7 +16765,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16773,7 +16773,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16781,7 +16781,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16789,7 +16789,7 @@ export default [
         "PSSR": "portable_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16797,7 +16797,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16805,7 +16805,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16813,7 +16813,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16821,7 +16821,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16829,7 +16829,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16837,7 +16837,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16845,7 +16845,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16853,7 +16853,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16861,7 +16861,7 @@ export default [
         "PSSR": "cognition",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16869,7 +16869,7 @@ export default [
         "PSSR": "pronoun",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -16877,7 +16877,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16885,7 +16885,7 @@ export default [
         "PSSR": "portable_obj",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "body",
@@ -16893,7 +16893,7 @@ export default [
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -16901,7 +16901,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "representation",
@@ -16909,7 +16909,7 @@ export default [
         "PSSR": "activity",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -16917,7 +16917,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -16925,7 +16925,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -16933,7 +16933,7 @@ export default [
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -16941,7 +16941,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -16949,7 +16949,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -16957,7 +16957,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -16965,7 +16965,7 @@ export default [
         "PSSR": "unit",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -16973,7 +16973,7 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "knowledge",
@@ -16981,7 +16981,7 @@ export default [
         "PSSR": "cultural_foundation",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -16989,7 +16989,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -16997,7 +16997,7 @@ export default [
         "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
-        "Match": "yes"
+        "Type": "a_expected"
     },
     {
         "PSSM": "pronoun",
@@ -17005,7 +17005,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -17013,7 +17013,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -17021,7 +17021,7 @@ export default [
         "PSSR": "cultural_artistry",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "cognition",
@@ -17029,7 +17029,7 @@ export default [
         "PSSR": "knowledge",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "pronoun",
@@ -17037,7 +17037,7 @@ export default [
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -17045,6 +17045,6 @@ export default [
         "PSSR": "time",
         "Marker": "o",
         "Predicted": "o",
-        "Match": "yes"
+        "Type": "o_expected"
     }
 ];
