@@ -7,7 +7,7 @@
 
   // INPUT: Currently expects an array of objects (items) with the same properties (variables)
   // The property values are the categories
-  import data from "$data/poss_mixed_6_march.js";
+  import data from "$data/poss_mixed_11_march.js";
   //import data from "$data/poss_a.js";
   //import data from "$data/poss_users.js";
 
