@@ -249,11 +249,11 @@ export default [
     },
     {
         "PSSM": "activity",
-        "RELA": "nom_agentive",
+        "RELA": "descriptor",
         "PSSR": "time",
         "Marker": "o",
-        "Predicted": "a",
-        "Type": "o_unexpected"
+        "Predicted": "o",
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -265,11 +265,11 @@ export default [
     },
     {
         "PSSM": "activity",
-        "RELA": "nom_agentive",
+        "RELA": "descriptor",
         "PSSR": "time",
         "Marker": "o",
-        "Predicted": "a",
-        "Type": "o_unexpected"
+        "Predicted": "o",
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -657,11 +657,11 @@ export default [
     },
     {
         "PSSM": "activity",
-        "RELA": "nom_agentive",
+        "RELA": "descriptor",
         "PSSR": "time",
         "Marker": "o",
-        "Predicted": "a",
-        "Type": "o_unexpected"
+        "Predicted": "o",
+        "Type": "o_expected"
     },
     {
         "PSSM": "unit",
@@ -698,7 +698,7 @@ export default [
     {
         "PSSM": "activity",
         "RELA": "nom_agentive",
-        "PSSR": "place",
+        "PSSR": "human",
         "Marker": "a",
         "Predicted": "a",
         "Type": "a_expected"
@@ -706,7 +706,7 @@ export default [
     {
         "PSSM": "activity",
         "RELA": "nom_agentive",
-        "PSSR": "place",
+        "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
         "Type": "o_unexpected"
@@ -985,11 +985,11 @@ export default [
     },
     {
         "PSSM": "human",
-        "RELA": "<kin",
+        "RELA": "descriptor",
         "PSSR": "institution",
         "Marker": "o",
-        "Predicted": "a",
-        "Type": "o_unexpected"
+        "Predicted": "o",
+        "Type": "o_expected"
     },
     {
         "PSSM": "part",
@@ -1464,12 +1464,12 @@ export default [
         "Type": "a_expected"
     },
     {
-        "PSSM": "property",
-        "RELA": "feature",
+        "PSSM": "activity",
+        "RELA": "nom_agentive",
         "PSSR": "human",
         "Marker": "a",
-        "Predicted": "o",
-        "Type": "a_unexpected"
+        "Predicted": "a",
+        "Type": "a_expected"
     },
     {
         "PSSM": "body",
@@ -1545,19 +1545,19 @@ export default [
     },
     {
         "PSSM": "activity",
-        "RELA": "nom_agentive",
+        "RELA": "descriptor",
         "PSSR": "place",
         "Marker": "o",
-        "Predicted": "a",
-        "Type": "o_unexpected"
+        "Predicted": "o",
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
         "RELA": "descriptor",
         "PSSR": "place",
         "Marker": "o",
-        "Predicted": "a",
-        "Type": "o_unexpected"
+        "Predicted": "o",
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -2177,11 +2177,11 @@ export default [
     },
     {
         "PSSM": "activity",
-        "RELA": "nom_agentive",
+        "RELA": "descriptor",
         "PSSR": "place",
         "Marker": "o",
-        "Predicted": "a",
-        "Type": "o_unexpected"
+        "Predicted": "o",
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_artistry",
@@ -2872,12 +2872,12 @@ export default [
         "Type": "o_expected"
     },
     {
-        "PSSM": "activity",
-        "RELA": "nom_agentive",
+        "PSSM": "property",
+        "RELA": "feature",
         "PSSR": "time",
         "Marker": "o",
-        "Predicted": "a",
-        "Type": "o_unexpected"
+        "Predicted": "o",
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3472,12 +3472,12 @@ export default [
         "Type": "o_unexpected"
     },
     {
-        "PSSM": "activity",
-        "RELA": "nom_agentive",
+        "PSSM": "property",
+        "RELA": "feature",
         "PSSR": "place",
         "Marker": "o",
-        "Predicted": "a",
-        "Type": "o_unexpected"
+        "Predicted": "o",
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -3929,11 +3929,11 @@ export default [
     },
     {
         "PSSM": "activity",
-        "RELA": "nom_agentive",
+        "RELA": "descriptor",
         "PSSR": "place",
         "Marker": "o",
-        "Predicted": "a",
-        "Type": "o_unexpected"
+        "Predicted": "o",
+        "Type": "o_expected"
     },
     {
         "PSSM": "institution",
@@ -4524,8 +4524,8 @@ export default [
         "RELA": "descriptor",
         "PSSR": "institution",
         "Marker": "o",
-        "Predicted": "a",
-        "Type": "o_unexpected"
+        "Predicted": "o",
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -6137,15 +6137,15 @@ export default [
     },
     {
         "PSSM": "human",
-        "RELA": ">=kin",
-        "PSSR": "digital_artefact",
+        "RELA": "descriptor",
+        "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
         "Type": "o_expected"
     },
     {
         "PSSM": "human",
-        "RELA": ">=kin",
+        "RELA": "descriptor",
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
@@ -6153,7 +6153,7 @@ export default [
     },
     {
         "PSSM": "human",
-        "RELA": ">=kin",
+        "RELA": "descriptor",
         "PSSR": "institution",
         "Marker": "o",
         "Predicted": "o",
@@ -6201,7 +6201,7 @@ export default [
     },
     {
         "PSSM": "human",
-        "RELA": ">=kin",
+        "RELA": "descriptor",
         "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
@@ -6241,32 +6241,32 @@ export default [
     },
     {
         "PSSM": "human",
-        "RELA": ">=kin",
-        "PSSR": "institution",
+        "RELA": "descriptor",
+        "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
         "Type": "o_expected"
     },
     {
         "PSSM": "human",
-        "RELA": ">=kin",
-        "PSSR": "institution",
+        "RELA": "descriptor",
+        "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
         "Type": "o_expected"
     },
     {
         "PSSM": "human",
-        "RELA": ">=kin",
-        "PSSR": "institution",
+        "RELA": "descriptor",
+        "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
         "Type": "o_expected"
     },
     {
         "PSSM": "human",
-        "RELA": ">=kin",
-        "PSSR": "institution",
+        "RELA": "descriptor",
+        "PSSR": "place",
         "Marker": "o",
         "Predicted": "o",
         "Type": "o_expected"
@@ -6313,7 +6313,7 @@ export default [
     },
     {
         "PSSM": "human",
-        "RELA": ">=kin",
+        "RELA": "descriptor",
         "PSSR": "human",
         "Marker": "o",
         "Predicted": "o",
@@ -6449,11 +6449,11 @@ export default [
     },
     {
         "PSSM": "activity",
-        "RELA": "nom_agentive",
+        "RELA": "descriptor",
         "PSSR": "place",
         "Marker": "o",
-        "Predicted": "a",
-        "Type": "o_unexpected"
+        "Predicted": "o",
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -9561,27 +9561,27 @@ export default [
     },
     {
         "PSSM": "human",
-        "RELA": "<kin",
+        "RELA": ">=kin",
         "PSSR": "human",
         "Marker": "o",
-        "Predicted": "a",
-        "Type": "o_unexpected"
+        "Predicted": "o",
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
-        "RELA": "<kin",
+        "RELA": ">=kin",
         "PSSR": "human",
         "Marker": "o",
-        "Predicted": "a",
-        "Type": "o_unexpected"
+        "Predicted": "o",
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
-        "RELA": "<kin",
+        "RELA": ">=kin",
         "PSSR": "human",
         "Marker": "o",
-        "Predicted": "a",
-        "Type": "o_unexpected"
+        "Predicted": "o",
+        "Type": "o_expected"
     },
     {
         "PSSM": "property",
@@ -9616,12 +9616,12 @@ export default [
         "Type": "o_expected"
     },
     {
-        "PSSM": "activity",
-        "RELA": "nom_agentive",
+        "PSSM": "property",
+        "RELA": "feature",
         "PSSR": "cognition",
         "Marker": "o",
-        "Predicted": "a",
-        "Type": "o_unexpected"
+        "Predicted": "o",
+        "Type": "o_expected"
     },
     {
         "PSSM": "human",
@@ -10080,12 +10080,12 @@ export default [
         "Type": "o_expected"
     },
     {
-        "PSSM": "activity",
-        "RELA": "nom_agentive",
+        "PSSM": "property",
+        "RELA": "feature",
         "PSSR": "place",
         "Marker": "o",
-        "Predicted": "a",
-        "Type": "o_unexpected"
+        "Predicted": "o",
+        "Type": "o_expected"
     },
     {
         "PSSM": "activity",
@@ -10098,7 +10098,7 @@ export default [
     {
         "PSSM": "activity",
         "RELA": "nom_agentive",
-        "PSSR": "place",
+        "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
         "Type": "o_unexpected"
@@ -10106,7 +10106,7 @@ export default [
     {
         "PSSM": "activity",
         "RELA": "nom_agentive",
-        "PSSR": "place",
+        "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
         "Type": "o_unexpected"
@@ -10577,11 +10577,11 @@ export default [
     },
     {
         "PSSM": "activity",
-        "RELA": "nom_agentive",
+        "RELA": "descriptor",
         "PSSR": "place",
         "Marker": "o",
-        "Predicted": "a",
-        "Type": "o_unexpected"
+        "Predicted": "o",
+        "Type": "o_expected"
     },
     {
         "PSSM": "cultural_foundation",
@@ -14108,8 +14108,8 @@ export default [
         "RELA": "<non-kin",
         "PSSR": "human",
         "Marker": "a",
-        "Predicted": "o",
-        "Type": "a_unexpected"
+        "Predicted": "a",
+        "Type": "a_expected"
     },
     {
         "PSSM": "human",
@@ -14410,7 +14410,7 @@ export default [
     {
         "PSSM": "activity",
         "RELA": "nom_agentive",
-        "PSSR": "place",
+        "PSSR": "human",
         "Marker": "o",
         "Predicted": "a",
         "Type": "o_unexpected"
